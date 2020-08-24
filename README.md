@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello World! 😄
+### Hi there, Hello World! 👋
  
 ## I'm Adriany! 
  
